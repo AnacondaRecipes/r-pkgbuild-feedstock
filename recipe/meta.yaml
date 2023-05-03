@@ -30,7 +30,7 @@ requirements:
     - r-base  {{ r_version }}
     - r-r6
     - r-callr >=3.2.0
-    - r-cli
+    - r-cli   >=3.4.0
     - r-crayon
     - r-desc
     - r-prettyunits
@@ -40,7 +40,7 @@ requirements:
     - r-base  {{ r_version }}
     - r-r6
     - r-callr >=3.2.0
-    - r-cli
+    - r-cli   >=3.4.0
     - r-crayon
     - r-desc
     - r-prettyunits
